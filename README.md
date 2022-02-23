@@ -1,4 +1,4 @@
-Computer Science graduate, currently focusing on deepening my understanding of core front-end technologies(HTML, CSS and "Vanilla" Javascript).
+Computer Science graduate, currently focusing on deepening my understanding of core Front-end technologies (HTML, CSS and "Vanilla" Javascript).
 
 
 <!---
